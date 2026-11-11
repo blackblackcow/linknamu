@@ -3,9 +3,9 @@ import ProfileHeader from "@/components/ProfileHeader";
 
 // TODO: 보여 주기용 더미 데이터. 실제 프로필과 링크로 교체할 것.
 const profile = {
-  name: "홍길동",
-  bio: "웹 개발자 · 링크나무에 오신 걸 환영해요",
-  imageUrl: "/profile-placeholder.svg",
+  name: "김개발",
+  bio: "풀스택 개발자| 요즘에는 ai 개발에 관심이 많아요",
+  imageUrl: "/profile.png",
 };
 
 const links = [
